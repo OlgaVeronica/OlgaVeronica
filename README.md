@@ -39,7 +39,7 @@ dev = {
 [linkedin]: https://www.linkedin.com/in/gabriel-de-oliveira-silva-1b163b249/
 <br>
 
-#### Rede Sociais!
+#### Redes Sociais!
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
