@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Programador Junior, em Busca de adiquirir conhecimento!!
+Programador Junior, em busca de adquirir conhecimento!!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
