@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Programador Junior, em busca de adquirir conhecimento!!
+Programadora Júnior, sempre em busca de conhecimentos!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -35,9 +35,8 @@ dev = {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OlgaVeronica&show_icons=true&theme=dracula&line_height=27" alt="**Olga Veronica** github stats"/>
 </a>
 
-[instagram]: https://www.instagram.com/gabriel_olisil/
-[linkedin]: https://www.linkedin.com/in/gabriel-de-oliveira-silva-1b163b249/
-<br>
+[instagram]: https://www.instagram.com/olga.png
+[linkedin]: https://www.linkedin.com/in/olgaveronica/
 
 #### Redes Sociais!
 
