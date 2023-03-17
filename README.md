@@ -10,7 +10,7 @@ Programadora Júnior, sempre em busca de conhecimentos!
 
 ```javascript
 dev = {
- name: "Olga Veronica de Andrade Silva",
+ name: "Olga Veronica",
  languages: ["JavaScript", "HTML", "CSS", "CSharp"]
 }
 ```
